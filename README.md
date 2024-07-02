@@ -10,4 +10,4 @@ The dataset used in this project is available from Kaggle
 Title: CHB-MIT-Subdataset, EEG Seizure Analysis Dataset
 Authors: Badea A., Adam A.
 Year: 2021
-Link: https://www.kaggle.com/datasets/adibadea/chbmitseizuredataset{Kaggle Dataset}
+Link: <href>https://www.kaggle.com/datasets/adibadea/chbmitseizuredataset</href>{Kaggle Dataset}
