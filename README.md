@@ -98,7 +98,8 @@ Open the EEG_Epileptic_Seizure_Detection.ipynb notebook in your browser and run 
 ## Google Colab
 
 Alternatively, you can run the notebook on Google Colab. click the link below to open the notebook directly in Colab environment :
-<b href = "https://colab.research.google.com/github/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/EEG_Epileptic_Seizure_Detection.ipynb">Colab Notebook</b>
+
+<a href = "https://colab.research.google.com/github/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/EEG_Epileptic_Seizure_Detection.ipynb">Colab Notebook</a>
 
 ## Visualizations
 
