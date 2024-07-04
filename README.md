@@ -72,30 +72,24 @@ Required Python packages (listed in the requirements.txt file)
 
 To clone the repository, run the following command:
 <pre>
-'''
 git clone https://github.com/your-username/EEG-Seizure-Detection.git
 cd EEG-Seizure-Detection
-'''
 </pre>
 
 ##Setting Up the Environment
 
 Create a virtual environment and install the required packages:
 <pre>
-  ''' 
 python -m venv venv
 source venv/bin/activate   # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
-  '''
 </pre>
 
 ## Running the Jupyter Notebook
 
 To run the Jupyter notebook, execute:
 <pre>
-  '''
 jupyter notebook
-  '''
 </pre>
 
 Open the EEG_Epileptic_Seizure_Detection.ipynb notebook in your browser and run the cells to execute the code.
@@ -104,7 +98,7 @@ Open the EEG_Epileptic_Seizure_Detection.ipynb notebook in your browser and run 
 ## Google Colab
 
 Alternatively, you can run the notebook on Google Colab. click the link below to open the notebook directly in Colab environment :
-<b href = "https://colab.research.google.com/drive/1W-UmATSDtBrn0gelOysYxEYpwPLhjh8l?usp=sharing">Colab Notebook</b>
+<b href = "https://colab.research.google.com/github/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/EEG_Epileptic_Seizure_Detection.ipynb">Colab Notebook</b>
 
 ## Visualizations
 
