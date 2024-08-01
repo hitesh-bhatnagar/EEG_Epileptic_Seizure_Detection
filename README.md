@@ -2,10 +2,9 @@
 ## Overview
 
 This project aims to build a Convolutional Neural Network (CNN) for binary classification of EEG signals into seizure and non-seizure classes. 
-This repository contains two Jupyter Notebooks as:
-    **EEG_Epileptic_Seizure_Detection.ipynb** contains the model which is trained on the dataset *CHB-MIT EEG Seizure Analysis Dataset*.Their are two models in this notebook one is Baseline model with validation accuracy of 62.13% and other is Tuned Model which has a validation accuracy of 60.97%.
-    **eeg_project** contains the code for the model which is trained on dataset from Kaggle.
-    This notebook contains One Dimension Convolution Neural Network model which has achieved the Test accuracy of 98% .
+
+**EEG_Epileptic_Seizure_Detection.ipynb** contains the code for the model which is trained on dataset from Kaggle.
+This notebook contains One Dimension Convolution Neural Network model which has achieved the Test accuracy of 98% .
 
 The project includes data preprocessing, model training, Tuning of Hyperparameters and visualization to provide a comprehensive analysis of the EEG signals.
 
