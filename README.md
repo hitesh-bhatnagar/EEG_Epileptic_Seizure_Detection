@@ -12,10 +12,11 @@ The project includes data preprocessing, model training, Tuning of Hyperparamete
 
 The dataset used in eeg_project.ipynb is available from Kaggle
 
-Title: Epileptic Seizure Recognition
-Authors: Yasir Hussein Shakir 
-Year: around 2020
-Link: <a href="https://www.kaggle.com/datasets/yasserhessein/epileptic-seizure-recognition">Epileptic Seizure Recognition</a>
+**Title:** Epileptic Seizure Recognition 
+
+**Authors:** Yasir Hussein Shakir 
+**Year:** around 2020
+**Link:** <a href="https://www.kaggle.com/datasets/yasserhessein/epileptic-seizure-recognition">Epileptic Seizure Recognition</a>
 
 ## About the Dataset 
 ----
@@ -88,7 +89,9 @@ Open the eeg_project.ipynb notebook in your browser and run the cells to execute
 
 Alternatively, you can run the notebook on Google Colab. click the link below to open the notebook directly in Colab environment :
 
-<a href = "https://github.com/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/eeg_project.ipynb">Colab Notebook</a>
+<a href = "https://github.com/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/EEG_Epileptic_Seizure_Detection.ipynb.ipynb">Colab Notebook</a>
+
+<a href = "https://github.com/hitesh-bhatnagar/EEG_Epileptic_Seizure_Detection/blob/main/graphs.ipynb"> Visualizations Notebook </a>
 
 ## Visualizations
 
